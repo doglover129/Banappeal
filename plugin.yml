@@ -1,0 +1,7 @@
+name: BanAppeal
+version: 0.1
+main: tk.skybarriermc.banappeal.BanAppeal
+commands:
+    ba:
+        description: Main command for BanAppeal, see /ba help for more info.
+        usage: /ba help
